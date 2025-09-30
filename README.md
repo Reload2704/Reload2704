@@ -74,7 +74,7 @@
 ---
 
 ## 📫 Cómo contactarme  
-- 📧 Correo: [joranbra@espol.edu.ec](mailto:jornabra@espol.edu.ec)  
+- 📧 Correo: [joranbra@espol.edu.ec](mailto:joranbra@espol.edu.ec)  
 - 💼 LinkedIn: [linkedin.com/in/jorge-bravo-vidal](https://www.linkedin.com/in/jorge-bravo-vidal)  
 
 ---
