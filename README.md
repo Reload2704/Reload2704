@@ -27,12 +27,12 @@
     <tr>
       <td>HTML / CSS</td>
       <td>Intermedio</td>
-      <td><a href="#">Página web del colegio</a></td>
+      <td><a href="https://sanluisreydefrancia.edu.ec">Página web del colegio</a></td>
     </tr>
     <tr>
       <td>JavaScript</td>
       <td>Principiante</td>
-      <td><a href="#">Página web del colegio</a></td>
+      <td><a href="https://sanluisreydefrancia.edu.ec">Página web del colegio</a></td>
     </tr>
     <tr>
       <td>Python</td>
