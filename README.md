@@ -15,15 +15,54 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-| Herramienta / Lenguaje | Nivel de experiencia | Usos
-|------------------------|----------------------|------------------| 
-| HTML / CSS             | Intermedio             |  [Página web del colegio](https://sanluisreydefrancia.edu.ec) |
-| JavaScript             | Principiante             | [Página web del colegio](https://sanluisreydefrancia.edu.ec)
-| Python                 | Intermedio               | Ayudante de FP PAO 2025-1, Proyectos Académicos, Optimización para tareas de Ayudantias de Gestión en Coordinación |
-| Git / GitHub           | Intermedio               | Gestionamiento de versiones de proyectos |
-| MySQL                  | Intermedio               | Proyecto de Base de datos |
-| Java                   | Avanzado                 | Proyecto: Juego UNO, Proyectos autonómos |
-| Ensamblador (MIPS)     | Intermedio               | Juego Blackjack |
+<table>
+  <thead>
+    <tr>
+      <th>Herramienta / Lenguaje</th>
+      <th>Nivel de experiencia</th>
+      <th>Usos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML / CSS</td>
+      <td>Intermedio</td>
+      <td><a href="#">Página web del colegio</a></td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>Principiante</td>
+      <td><a href="#">Página web del colegio</a></td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>Intermedio</td>
+      <td>Ayudante de FP PAO 2025-1, Proyectos Académicos, Optimización para tareas de Ayudantías</td>
+    </tr>
+    <tr>
+      <td>Git / GitHub</td>
+      <td>Intermedio</td>
+      <td>Gestionamiento de versiones de proyectos</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>Intermedio</td>
+      <td>Proyecto de Base de datos</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>Avanzado</td>
+      <td>Proyecto: Juego UNO, Proyectos autónomos</td>
+    </tr>
+    <tr>
+      <td>Ensamblador (MIPS)</td>
+      <td>Intermedio</td>
+      <td>Juego Blackjack</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ---
 
 ## 📂 Proyectos destacados  
