@@ -20,10 +20,10 @@
 ---
 
 ## 📂 Proyectos destacados  
-- [Juego UNO](#) – Replica del Juego UNO como proyecto de POO con aplicación de FireBase para permitir jugarlo en línea.  
-- [Juego del Agente Viajero](#) – Proyecto de Matemáticas Discretas para adivinar la ruta más corta entre ciudades aleatorias del Ecuador.
-- [Juego Blackjack](#) – Juego blackjack desarrollado en ensamblador con la herramienta MIPS para Organización de Computadores.   
-- [Estudio estadístico sobre aves costeras del Ecuador](#) – Proyecto de Estadística que analiza la relación entre las características morfológicas y el comportamiento vocal de las aves costeras ecuatorianas. 
+- [Juego UNO](https://github.com/Reload2704/UNO-GameProject) – Replica del Juego UNO como proyecto de POO con aplicación de FireBase para permitir jugarlo en línea.  
+- [Juego del Agente Viajero] – Proyecto de Matemáticas Discretas para adivinar la ruta más corta entre ciudades aleatorias del Ecuador.
+- [Juego Blackjack](https://github.com/Jaesparz/ProyectoORG) – Juego blackjack desarrollado en ensamblador con la herramienta MIPS para Organización de Computadores.   
+- [Estudio estadístico sobre aves costeras del Ecuador] – Proyecto de Estadística que analiza la relación entre las características morfológicas y el comportamiento vocal de las aves costeras ecuatorianas. 
 
 ---
 
